@@ -16,6 +16,7 @@ This data was collected using the original version of the BluetoothProx app (V1.
 - Log files have a comment field with additional details.
 
 Refer to Index.xlsx for a summary of log files. 
+
 In some cases, photos provided by the test participants are included in the subfolders.
 
 **Contact:**
