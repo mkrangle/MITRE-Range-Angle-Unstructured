@@ -15,9 +15,11 @@ This data was collected using the original version of the BluetoothProx app (V1.
 - Beacon devices used nRF Connect to send advertising packets instead of the BlueProx app.  This allowed both iOS and Android devices to used.  In total, 7 iOS devices and 4 Android devices were used as the beacon device.  (Device types are reported in log files as "self_tester" and "partner_tester".)
 - Log files have a comment field with additional details.
 
-Refer to Index.xlsx for a summary of log files.  In some cases, photos provided by the test participants are included in the subfolders.
+Refer to Index.xlsx for a summary of log files. 
+In some cases, photos provided by the test participants are included in the subfolders.
 
 **Contact:**
+
 	Mark Krangle
 	The MITRE Corporation
 	mkrangle@mitre.org
