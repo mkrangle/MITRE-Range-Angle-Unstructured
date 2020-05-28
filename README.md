@@ -20,9 +20,6 @@ Refer to Index.xlsx for a summary of log files.  In some cases, photos provided 
 **Contact:**
 
 	Mark Krangle
-	
 	The MITRE Corporation
-	
 	mkrangle@mitre.org
-	
 	781-271-7008
