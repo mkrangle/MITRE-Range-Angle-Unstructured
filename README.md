@@ -6,7 +6,8 @@ This dataset contains measurements similar to the the MITLL range-angle protocol
 
 This data was collected using the original version of the BluetoothProx app (V1.0), before metadata such as phone carrying position, pose, etc. was embededded in the log file.  The files have been post processed to match the format of the new version of the app (V2.0) to the extent possible.
 
-The following are differences between this test procedure / file format and the current range-angle protocol (Structured Contact Tracing Protocol, V.2.0) test procedure / file format:
+**The following are differences between this test procedure / file format and the current range-angle protocol (_Structured Contact Tracing Protocol, V.2.0_) test procedure / file format:**
+
 - Testers did not follow a structured test sequence.  They chose their own range, angle and conditions for each test.
 - Each log file contains data for a single range, angle and set of conditions
 - Data was collected for 60 seconds per test
