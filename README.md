@@ -17,8 +17,12 @@ This data was collected using the original version of the BluetoothProx app (V1.
 
 Refer to Index.xlsx for a summary of log files.  In some cases, photos provided by the test participants are included in the subfolders.
 
-##Contact:
+**Contact:**
+
 	Mark Krangle
+	
 	The MITRE Corporation
+	
 	mkrangle@mitre.org
+	
 	781-271-7008
