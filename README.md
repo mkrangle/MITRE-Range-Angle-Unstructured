@@ -1,6 +1,7 @@
 # MITRE Range-Angle (Unstructured)
 
 **Overview:**
+
 This dataset contains measurements similar to the the MITLL range-angle protocol, but taken in an unstructured manner.  Unlike the range-angle protocol (Structured Contact Tracing Protocol, V.2.0), testers chose their own range, angle and number of tests per set.  As a result the dataset does not contain complete range-angle sets, but there is more variety in environment, phone carrying position, pose, etc.  The data was collected by 12 MITRE employees at their homes.
 
 This data was collected using the original version of the BluetoothProx app (V1.0), before metadata such as phone carrying position, pose, etc. was embededded in the log file.  The files have been post processed to match the format of the new version of the app (V2.0) to the extent possible.
