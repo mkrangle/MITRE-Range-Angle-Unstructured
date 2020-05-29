@@ -6,7 +6,7 @@ This dataset contains measurements similar to the the MITLL range-angle protocol
 
 This data was collected using the original version of the BlueProx app (V1.0), before metadata such as environment, phone position, etc. was embededded in the log file.  The files have been post processed to match the format of the new version of the app (V2.0) to the extent possible.
 
-**Differences between this test procedure / file format and the current range-angle protocol (_Structured Contact Tracing Protocol, V.2.0_) test procedure / file format:**
+**Differences between this test procedure/file format and the current range-angle protocol (_Structured Contact Tracing Protocol, V.2.0_) test procedure/file format:**
 
 - Testers did not follow a structured test sequence.  They chose their own range, angle and conditions for each test.
 - Each log file contains data for a single range, angle and set of conditions
