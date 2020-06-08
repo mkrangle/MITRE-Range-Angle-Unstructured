@@ -9,7 +9,7 @@
 2020-05-19T16:09:21.513Z,self_user_id,
 2020-05-19T16:09:21.513Z,comments,Kitchen: in kitchen with transmitter in the corner of a peninsula counter And receiver opposite
 2020-05-19T16:10:12.456Z,partner_tester,,iPhone XR
-2020-05-19T16:09:21.513Z,self_tester,iPhone XS Max,Shawn’s iPhone
+2020-05-19T16:09:21.513Z,self_tester,iPhone XS Max,<Device Name Removed>
 2020-05-19T16:10:12.458Z,partner_on_body_location,front pants pocket
 2020-05-19T16:10:12.457Z,partner_pose,Standing
 2020-05-19T16:10:12.453Z,Range,6

@@ -9,7 +9,7 @@
 2020-05-20T19:31:58.890Z,self_user_id,
 2020-05-20T19:31:58.890Z,comments,Large living room. Rx standing, Tx sitting from 2-16 ft, then Tx standing from 2-16 ft. Position and rotation constant, front towards device, device right hand to ear.
 2020-05-20T19:37:37.803Z,partner_tester,,iPhone7
-2020-05-20T19:31:58.890Z,self_tester,iPhone XR,Cheng-I’s iPhone
+2020-05-20T19:31:58.890Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-20T19:37:37.805Z,partner_on_body_location,in hand
 2020-05-20T19:37:37.804Z,partner_pose,Standing
 2020-05-20T19:37:37.800Z,Range,2

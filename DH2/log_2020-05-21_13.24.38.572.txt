@@ -9,7 +9,7 @@
 2020-05-21T13:24:38.583Z,self_user_id,
 2020-05-21T13:24:38.583Z,comments,Outdoor, Tx in various pockets, standing. Rx moving around at different distances
 2020-05-21T13:24:44.080Z,partner_tester,,iPhone 7
-2020-05-21T13:24:38.583Z,self_tester,iPhone XR,David’s iPhone
+2020-05-21T13:24:38.583Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-21T13:24:44.084Z,partner_on_body_location,front pants pocket
 2020-05-21T13:24:44.083Z,partner_pose,Standing
 2020-05-21T13:24:44.076Z,Range,2

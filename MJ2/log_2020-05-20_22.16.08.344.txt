@@ -9,7 +9,7 @@
 2020-05-20T22:16:08.348Z,self_user_id,
 2020-05-20T22:16:08.348Z,comments,Living room testing, receiver phone had battery pack attached and held on backside of phone due to low battery.  Receiver phone with standing position for these tests, Tx sitting.
 2020-05-20T22:16:10.055Z,partner_tester,,iPhone8
-2020-05-20T22:16:08.348Z,self_tester,iPhone XR,Marc’s iPhone
+2020-05-20T22:16:08.348Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-20T22:16:10.056Z,partner_on_body_location,in hand
 2020-05-20T22:16:10.055Z,partner_pose,Sitting
 2020-05-20T22:16:10.053Z,Range,16

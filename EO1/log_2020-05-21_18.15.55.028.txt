@@ -9,7 +9,7 @@
 2020-05-21T18:15:55.038Z,self_user_id,
 2020-05-21T18:15:55.038Z,comments,Indoor, tall open living room. Test was done all sitting both Tx and Rx, Tx chair moved in 2ft increments away from Rx chair.
 2020-05-21T18:15:57.681Z,partner_tester,,iPhone 6s
-2020-05-21T18:15:55.038Z,self_tester,iPhone XR,EOLECHNA’s iPhone
+2020-05-21T18:15:55.038Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-21T18:15:57.682Z,partner_on_body_location,in hand
 2020-05-21T18:15:57.682Z,partner_pose,Sitting
 2020-05-21T18:15:57.679Z,Range,2

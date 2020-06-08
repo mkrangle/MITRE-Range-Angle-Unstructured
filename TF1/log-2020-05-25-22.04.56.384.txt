@@ -9,7 +9,7 @@
 2020-05-25T22:04:56.395Z,self_user_id,
 2020-05-25T22:04:56.395Z,comments,Description not provided. Indoor, guess medium room, center. Looks like phone orientation and user distance / position changed throughout the tests.
 2020-05-25T22:04:57.888Z,partner_tester,,Galaxy S9
-2020-05-25T22:04:56.395Z,self_tester,iPhone XR,Tyler’s iPhone
+2020-05-25T22:04:56.395Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-25T22:04:57.890Z,partner_on_body_location,in hand
 2020-05-25T22:04:57.889Z,partner_pose,Sitting
 2020-05-25T22:04:57.885Z,Range,8

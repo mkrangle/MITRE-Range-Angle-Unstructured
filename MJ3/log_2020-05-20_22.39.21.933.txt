@@ -9,7 +9,7 @@
 2020-05-20T22:39:21.944Z,self_user_id,
 2020-05-20T22:39:21.944Z,comments,Living room and kitchen. I imagine this means Tx in one and Rx in the other. Receiver phone standing without battery pack, Tx sitting.
 2020-05-20T22:40:05.917Z,partner_tester,,iPhone8
-2020-05-20T22:39:21.944Z,self_tester,iPhone XR,Marc’s iPhone
+2020-05-20T22:39:21.944Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-20T22:40:05.918Z,partner_on_body_location,rear pants pocket
 2020-05-20T22:40:05.918Z,partner_pose,Standing
 2020-05-20T22:40:05.916Z,Range,6

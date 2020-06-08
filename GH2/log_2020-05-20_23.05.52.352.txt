@@ -9,7 +9,7 @@
 2020-05-20T23:05:52.364Z,self_user_id,
 2020-05-20T23:05:52.364Z,comments,Indoor, medium size room, transmit device in purse resting on a couch against the wall
 2020-05-20T23:05:57.853Z,partner_tester,,LG G7
-2020-05-20T23:05:52.364Z,self_tester,iPhone XR,Geoff’s iPhone
+2020-05-20T23:05:52.364Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-20T23:05:57.854Z,partner_on_body_location,in purse
 2020-05-20T23:05:57.853Z,partner_pose,Sitting
 2020-05-20T23:05:57.851Z,Range,14

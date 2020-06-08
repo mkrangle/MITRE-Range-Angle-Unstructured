@@ -9,7 +9,7 @@
 2020-05-22T10:53:32.806Z,self_user_id,
 2020-05-22T10:53:32.806Z,comments,Outdoor on small deck, sitting on couch and chair across from one another.
 2020-05-22T10:53:35.270Z,partner_tester,,Pixel 3
-2020-05-22T10:53:32.806Z,self_tester,iPhone XR,Brian’s iPhone
+2020-05-22T10:53:32.806Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-22T10:53:35.271Z,partner_on_body_location,in hand
 2020-05-22T10:53:35.271Z,partner_pose,Sitting
 2020-05-22T10:53:35.269Z,Range,4

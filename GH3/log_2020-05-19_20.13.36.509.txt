@@ -9,7 +9,7 @@
 2020-05-19T20:13:36.520Z,self_user_id,
 2020-05-19T20:13:36.520Z,comments,Indoor, medium size room, standing in corner of room with transmit device held to ear.
 2020-05-19T20:13:38.710Z,partner_tester,,LG G7
-2020-05-19T20:13:36.520Z,self_tester,iPhone XR,Geoff’s iPhone
+2020-05-19T20:13:36.520Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-19T20:13:38.711Z,partner_on_body_location,in hand
 2020-05-19T20:13:38.710Z,partner_pose,Standing
 2020-05-19T20:13:38.708Z,Range,12

@@ -9,7 +9,7 @@
 2020-05-20T17:08:24.491Z,self_user_id,
 2020-05-20T17:08:24.491Z,comments,Indoor, Dining room. Dining room is fairly empty with large table in center with hardwood floors.
 2020-05-20T17:08:29.605Z,partner_tester,,iPhone XR
-2020-05-20T17:08:24.491Z,self_tester,iPhone XS Max,Shawn’s iPhone
+2020-05-20T17:08:24.491Z,self_tester,iPhone XS Max,<Device Name Removed>
 2020-05-20T17:08:29.607Z,partner_on_body_location,front pants pocket
 2020-05-20T17:08:29.606Z,partner_pose,Sitting
 2020-05-20T17:08:29.602Z,Range,6

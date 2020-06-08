@@ -9,7 +9,7 @@
 2020-05-20T20:42:02.155Z,self_user_id,
 2020-05-20T20:42:02.155Z,comments,Indoor - Living room (see photos). Rx always sat on the couch in corner and Tx moved down the tape measure line. The furthest distances were through a door into an adjoining room.
 2020-05-20T20:42:10.592Z,partner_tester,,iPhone11
-2020-05-20T20:42:02.155Z,self_tester,iPhone XR,Kyle’s iPhone
+2020-05-20T20:42:02.155Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-20T20:42:10.594Z,partner_on_body_location,in hand
 2020-05-20T20:42:10.593Z,partner_pose,Standing
 2020-05-20T20:42:10.590Z,Range,2

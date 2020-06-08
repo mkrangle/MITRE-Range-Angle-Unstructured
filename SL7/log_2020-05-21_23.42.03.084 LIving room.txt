@@ -9,7 +9,7 @@
 2020-05-21T23:42:03.112Z,self_user_id,
 2020-05-21T23:42:03.112Z,comments,Indoor, Living room with tx sitting on couch.
 2020-05-21T23:42:06.867Z,partner_tester,,iPhone XR
-2020-05-21T23:42:03.112Z,self_tester,iPhone XS Max,Shawn’s iPhone
+2020-05-21T23:42:03.112Z,self_tester,iPhone XS Max,<Device Name Removed>
 2020-05-21T23:42:06.868Z,partner_on_body_location,in hand
 2020-05-21T23:42:06.868Z,partner_pose,Sitting
 2020-05-21T23:42:06.865Z,Range,4

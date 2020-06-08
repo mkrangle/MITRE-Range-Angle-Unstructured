@@ -9,7 +9,7 @@
 2020-05-21T13:08:44.417Z,self_user_id,
 2020-05-21T13:08:44.417Z,comments,Indoor - Tx device sitting, phone held to ear. Rx moves around the room at various distances.
 2020-05-21T13:09:28.611Z,partner_tester,,iPhone 7
-2020-05-21T13:08:44.417Z,self_tester,iPhone XR,David’s iPhone
+2020-05-21T13:08:44.417Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-21T13:09:28.613Z,partner_on_body_location,in hand
 2020-05-21T13:09:28.612Z,partner_pose,Sitting
 2020-05-21T13:09:28.608Z,Range,4

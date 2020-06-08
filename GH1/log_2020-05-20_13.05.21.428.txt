@@ -9,7 +9,7 @@
 2020-05-20T13:05:21.440Z,self_user_id,
 2020-05-20T13:05:21.440Z,comments,Indoor, medium size room, sitting at a table with transmit device in front pocket.
 2020-05-20T13:05:23.644Z,partner_tester,,LG G7
-2020-05-20T13:05:21.440Z,self_tester,iPhone XR,Geoff’s iPhone
+2020-05-20T13:05:21.440Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-20T13:05:23.645Z,partner_on_body_location,front pants pocket
 2020-05-20T13:05:23.645Z,partner_pose,Sitting
 2020-05-20T13:05:23.642Z,Range,8

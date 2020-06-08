@@ -9,7 +9,7 @@
 2020-05-22T10:24:57.296Z,self_user_id,
 2020-05-22T10:24:57.296Z,comments,Indoor, living room area and entrance to the bathroom of apartment. Rx device stood from the indoor picture point of view, Tx device was held near the bathroom door.
 2020-05-22T10:25:05.817Z,partner_tester,,Pixel 3
-2020-05-22T10:24:57.296Z,self_tester,iPhone XR,Brian’s iPhone
+2020-05-22T10:24:57.296Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-22T10:25:05.818Z,partner_on_body_location,in hand
 2020-05-22T10:25:05.817Z,partner_pose,Standing
 2020-05-22T10:25:05.815Z,Range,6

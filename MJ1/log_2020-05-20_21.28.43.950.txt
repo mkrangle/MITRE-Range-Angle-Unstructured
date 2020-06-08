@@ -9,7 +9,7 @@
 2020-05-20T21:28:43.976Z,self_user_id,
 2020-05-20T21:28:43.976Z,comments,Family room with Tx sitting on sofa. Receiver phone is also sitting.
 2020-05-20T21:29:19.463Z,partner_tester,,iPhone8
-2020-05-20T21:28:43.976Z,self_tester,iPhone XR,Marc’s iPhone
+2020-05-20T21:28:43.976Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-20T21:29:19.464Z,partner_on_body_location,in hand
 2020-05-20T21:29:19.464Z,partner_pose,Sitting
 2020-05-20T21:29:19.462Z,Range,4

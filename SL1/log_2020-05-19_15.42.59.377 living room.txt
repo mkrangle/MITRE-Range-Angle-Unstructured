@@ -9,7 +9,7 @@
 2020-05-19T15:42:59.388Z,self_user_id,
 2020-05-19T15:42:59.388Z,comments,Living room: large family room with couches and tv
 2020-05-19T15:43:28.048Z,partner_tester,,iPhone XR
-2020-05-19T15:42:59.388Z,self_tester,iPhone XS Max,Shawn’s iPhone
+2020-05-19T15:42:59.388Z,self_tester,iPhone XS Max,<Device Name Removed>
 2020-05-19T15:43:28.050Z,partner_on_body_location,front pants pocket
 2020-05-19T15:43:28.049Z,partner_pose,Sitting
 2020-05-19T15:43:28.046Z,Range,6

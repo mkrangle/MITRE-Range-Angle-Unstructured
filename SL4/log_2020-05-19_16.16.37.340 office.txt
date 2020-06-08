@@ -9,7 +9,7 @@
 2020-05-19T16:16:37.350Z,self_user_id,
 2020-05-19T16:16:37.350Z,comments,Office: home office with tx near a window and receiver across towards an open door.
 2020-05-19T16:16:39.465Z,partner_tester,,iPhone XR
-2020-05-19T16:16:37.350Z,self_tester,iPhone XS Max,Shawn’s iPhone
+2020-05-19T16:16:37.350Z,self_tester,iPhone XS Max,<Device Name Removed>
 2020-05-19T16:16:39.467Z,partner_on_body_location,in hand
 2020-05-19T16:16:39.467Z,partner_pose,Sitting
 2020-05-19T16:16:39.463Z,Range,10

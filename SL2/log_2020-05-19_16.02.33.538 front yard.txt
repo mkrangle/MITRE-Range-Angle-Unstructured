@@ -9,7 +9,7 @@
 2020-05-19T16:02:33.548Z,self_user_id,
 2020-05-19T16:02:33.548Z,comments,Front Lawn
 2020-05-19T16:02:36.540Z,partner_tester,,iPhone XR
-2020-05-19T16:02:33.548Z,self_tester,iPhone XS Max,Shawn’s iPhone
+2020-05-19T16:02:33.548Z,self_tester,iPhone XS Max,<Device Name Removed>
 2020-05-19T16:02:36.541Z,partner_on_body_location,in hand
 2020-05-19T16:02:36.541Z,partner_pose,Standing
 2020-05-19T16:02:36.537Z,Range,12

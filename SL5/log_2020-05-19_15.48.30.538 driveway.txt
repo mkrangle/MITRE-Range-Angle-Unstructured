@@ -9,7 +9,7 @@
 2020-05-19T15:48:30.548Z,self_user_id,
 2020-05-19T15:48:30.548Z,comments,Driveway: outside on driveway ~ 15’ from the house.
 2020-05-19T15:48:32.420Z,partner_tester,,iPhone XR
-2020-05-19T15:48:30.548Z,self_tester,iPhone XS Max,Shawnâ€™s iPhone
+2020-05-19T15:48:30.548Z,self_tester,iPhone XS Max,<Device Name Removed>
 2020-05-19T15:48:32.421Z,partner_on_body_location,in hand
 2020-05-19T15:48:32.421Z,partner_pose,Standing
 2020-05-19T15:48:32.417Z,Range,4

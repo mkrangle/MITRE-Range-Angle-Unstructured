@@ -9,7 +9,7 @@
 2020-05-20T11:35:58.547Z,self_user_id,
 2020-05-20T11:35:58.547Z,comments,Tests were performed in an open outdoor area (See attached image). Baseballs were used to mark every four feet.
 2020-05-20T11:36:03.408Z,partner_tester,,iPhone 8
-2020-05-20T11:35:58.547Z,self_tester,iPhone XR,Jared’s Work
+2020-05-20T11:35:58.547Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-20T11:36:03.409Z,partner_on_body_location,in hand
 2020-05-20T11:36:03.409Z,partner_pose,Standing
 2020-05-20T11:36:03.407Z,Range,16

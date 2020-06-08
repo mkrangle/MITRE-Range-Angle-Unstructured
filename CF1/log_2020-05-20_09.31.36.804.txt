@@ -9,7 +9,7 @@
 2020-05-20T09:31:36.815Z,self_user_id,
 2020-05-20T09:31:36.815Z,comments,The Rx sat on the couch while the Tx changed distance, orientation, and position.The room is on the small side, so we did 2/4/6 ft in one room, and then 12 feet away in another room (diagram attached).
 2020-05-20T09:31:42.741Z,partner_tester,,Pixel
-2020-05-20T09:31:36.815Z,self_tester,iPhone XR,Cecelia’s iPhone
+2020-05-20T09:31:36.815Z,self_tester,iPhone XR,<Device Name Removed>
 2020-05-20T09:31:42.743Z,partner_on_body_location,in hand
 2020-05-20T09:31:42.742Z,partner_pose,Standing
 2020-05-20T09:31:42.739Z,Range,12
