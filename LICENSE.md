@@ -1,5 +1,7 @@
 ﻿©2020 The MITRE Corporation
+
 Public Release Number PR_20-01034-1
+
 https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
 Attribution-NonCommercial 4.0 International
